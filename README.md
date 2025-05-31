@@ -132,5 +132,5 @@ Below is a high-level outline of the sections in **`ML.ipynb`**:
 
 1. **Clone this repository** (or download the `.ipynb` and dataset folder):
    ```bash
-   git clone https://github.com/YourUsername/airbnb-ml-project.git
+   git clone https://github.com/AliMadany/airbnb-ml-project.git
    cd airbnb-ml-project
