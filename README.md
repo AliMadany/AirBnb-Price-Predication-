@@ -5,10 +5,7 @@
 2. [Data Description](#data-description)  
 3. [Notebook Structure](#notebook-structure)  
 4. [Installation & Setup](#installation--setup)  
-5. [Usage](#usage)  
-6. [Dependencies](#dependencies)  
-7. [Results & Outputs](#results--outputs)  
-8. [Author](#author)  
+
 
 ---
 
